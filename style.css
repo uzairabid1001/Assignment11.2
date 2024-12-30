@@ -1,0 +1,57 @@
+h1 {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+}
+.heading {
+  border-bottom: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  line-height: 5px;
+}
+
+#container {
+  margin: 50px 50px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h4 {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+  text-transform: uppercase;
+}
+#first {
+  display: flex;
+  font-size: 13px;
+  justify-content: left;
+  /* padding: 25px 25px 0 0; */
+}
+.part1 {
+  width: 32%;
+  padding: 12px;
+  font-size: small;
+}
+.part2 {
+  width: 32%;
+  padding: 12px;
+
+  border-right: 1px solid rgb(0, 0, 0);
+  border-left: 1px solid rgb(0, 0, 0);
+}
+#second {
+  /* padding: 22px 0; */
+  height: 80%;
+}
+.part3 {
+  width: 32%;
+  padding: 12px;
+  font-size: small;
+  vertical-align: top;
+}
+.jj {
+  float: left;
+  margin: 5px 10px 10px 0px;
+}
